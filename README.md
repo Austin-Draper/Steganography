@@ -6,10 +6,10 @@ The .png shares the same name as the .jpg except for a enc_ added to the front o
 
 To run this program on Linux or Mac, open your terminal in the same directory as the program 
 and type: 
-python encryption_project.py
+python Text_In_Image_Project.py
 
 On Windows, open a command line in the same directory as the script and type: 
-py -2 encryption_project.py
+py -2 Text_In_Image_Project.py
 
 You will be prompted to enter a 1 to encrypt, 2 to decrypt, or anything else to quit.
 
